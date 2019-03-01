@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Types>
+	<Type Id="TXT">
+		<class>VuelingSchool.Common.Library.Utils.TXTRepository</class>
+	</Type>
+	<Type Id="JSON">
+		<class>VuelingSchool.Common.Library.Utils.JSONRepository</class>
+	</Type>
+	<Type Id="XML">
+		<class>VuelingSchool.Common.Library.Utils.XMLRepository</class>
+	</Type>
+</Types>
